@@ -1,11 +1,12 @@
 package tricksInJava;
 
-import java.util.ArrayList;
-import java.util.ArrayList.*;
-
 public class Practise {
 
-	public static void main(String[] args) {
-		ArrayList a = new ArrayList();
+	public void speak() {
+		System.out.println("Ï speek English");
+	}
+	
+	public Practise() {
+		// TODO Auto-generated constructor stub
 	}
 }
